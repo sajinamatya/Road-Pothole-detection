@@ -1,0 +1,14 @@
+path: E:\road_pothole_detection\dataset\data.yaml
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pothole']
+
+roboflow:
+  workspace: backside-citizenship
+  project: sajin-object-detection-pothole
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/backside-citizenship/sajin-object-detection-pothole/dataset/1
