@@ -1,9 +1,9 @@
-﻿altair==5.5.0
+altair==5.5.0
 asttokens==3.0.0
 attrs==25.3.0
 blinker==1.9.0
 cachetools==5.5.2
-certifi==2025.4.26
+certifi
 charset-normalizer==3.4.2
 click==8.2.0
 colorama==0.4.6
@@ -70,9 +70,9 @@ sympy==1.14.0
 tenacity==9.1.2
 toml==0.10.2
 torc==0.1.1
-torch==2.7.0+cpu
-torchaudio==2.7.0+cpu
-torchvision==0.22.0+cpu
+torch==2.7.0
+torchaudio==2.7.0
+torchvision==0.22.0
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
