@@ -1,8 +1,8 @@
 streamlit==1.45.0
-pandas
-numpy
-opencv-python
-torch
-torchaudio
-torchvision
-ultralytics
+pandas==2.2.2
+numpy==1.26.4
+opencv-python==4.9.0.80
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+ultralytics==8.1.25
