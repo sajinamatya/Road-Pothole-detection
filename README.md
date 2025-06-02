@@ -1,6 +1,6 @@
 # Road pothole  detection
-## The YOLO v8 small was fined tuned on custom data for an 40 epoch of training time with a batch size of 8. 
-## Adam optimizer was used for maintaing stable training
+### The YOLO v8 small was fined tuned on custom data for an 40 epoch of training time with a batch size of 8. 
+#### Adam optimizer was used for maintaing stable training
 
 Tools and technique used :
   Library: Ultralytics, opencv, streamlit, 
