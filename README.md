@@ -9,5 +9,8 @@ Tools and technique used :
   
 Deployment link : https://sajinamatya-road-pothole-detection-deploy-dfdscu.streamlit.app/
 
+## System flowchart 
+![image](https://github.com/user-attachments/assets/9e103a60-3b2d-4833-8861-01b2855e9fe9)
+
 
 ![image](https://github.com/user-attachments/assets/49344db0-a97d-47db-ba3a-d695da47751a)
