@@ -12,5 +12,7 @@ Deployment link : https://sajinamatya-road-pothole-detection-deploy-dfdscu.strea
 ## System flowchart 
 ![image](https://github.com/user-attachments/assets/9e103a60-3b2d-4833-8861-01b2855e9fe9)
 
+## Sample of data annotation using robo flow 
+![image](https://github.com/user-attachments/assets/1ad0c0c7-8061-4984-8d88-b752723f00bd)
 
 ![image](https://github.com/user-attachments/assets/49344db0-a97d-47db-ba3a-d695da47751a)
