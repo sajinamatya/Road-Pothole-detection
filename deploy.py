@@ -38,7 +38,7 @@ if uploaded_file is not None:
     # Display results
     st.subheader("🔍 Detection Results")
     res_img = results[0].plot()  # Annotated image as NumPy array
-    st.image(res_img, caption="Pothole Detection", use_column_width=True)
+    st.image(res_img, caption="Road Pothole Detection", use_column_width=True)
 
     # Optional: Show detection labels and confidence
     st.write("### 📋 Detections")
